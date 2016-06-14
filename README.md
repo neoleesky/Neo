@@ -1,2 +1,2 @@
 # Neo
-sample reademe
+sample readme
